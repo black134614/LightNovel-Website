@@ -1,0 +1,14 @@
+﻿@import url('bootstrap.min.css');
+@import url('font-awesome.min.css');
+@import url('animate.css');
+@import url('../Plugins/aos/aos.css');
+@import url('../Plugins/FancyBox/jquery.fancybox.min.css');
+@import url('../Plugins/mdb/asset/mdb.min.css');
+@import url('../Plugins/OwlCarousel2/assets/owl.carousel.min.css');
+@import url('../Plugins/OwlCarousel2/assets/owl.theme.default.css');
+
+@import 'lib/font.css';
+@import 'lib/Theme.css';
+@import 'lib/stamp.css';
+@import 'lib/fontAwsAnimation.css';
+
